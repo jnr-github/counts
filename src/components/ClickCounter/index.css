@@ -1,0 +1,25 @@
+.background {
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.heading {
+  color: black;
+  font-size: 23px;
+  font-weight: bold;
+}
+.span {
+  color: pink;
+}
+.para {
+  font-size: 19px;
+  color: black;
+}
+.buttons {
+  background-color: blue;
+  color: white;
+  border: 0px;
+}
